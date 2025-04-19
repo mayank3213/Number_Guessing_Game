@@ -1,0 +1,52 @@
+body{
+    background-color:rgb(7, 7, 7);
+}
+
+.wrapper{
+    font-size: 30px;
+    font-weight: 800;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-style: solid;
+    background-color: brown;
+    border-style: solid;
+    padding-left: 350px;
+}
+
+h1{
+    background-color: rgb(203, 65, 65);
+    border-style: solid;
+    padding-left: 32%;
+    color: rgb(38, 237, 78);
+    border-radius: 30px;
+    font-size: 50px;
+}
+
+.wrapper p{
+    font-style: italic;
+    color: aqua;
+}
+
+.wrapper .form #guess{
+    font-size: 50px;
+    margin-left: 16%;
+    margin-top: 25px;
+    color:azure;
+} 
+
+.wrapper .form #guessField{
+    font-size: 30px;
+    margin-left: 18%;
+    margin-top: 30px;
+    border-style: solid;
+}
+
+.wrapper .form #subt{
+    font-size: 25px;
+    margin-left: 27%;
+    margin-top: 30px;
+    background-color: black;
+    color: aliceblue;
+    border-style: solid;
+    border-radius: 30px;
+    padding: 10px;
+}
